@@ -28,13 +28,3 @@ You need to install some additional packages before executing the files.
 install.packages("gridExtra")
 install.packages("ggtext")
 ```
-
-### Any other relevant information
-
-N/A
-
-### Reflections
-
-* Working on this project was both challenging and rewarding. One of the main challenges was understanding the data and how it could be used to answer the research questions. However, the process of exploring the data, visualizing it, and uncovering insights was enjoyable and fulfilling.
-
-* One challenge was formulating the research questions. It was crucial to define questions that were both interesting and feasible to answer with the available data. This required a good understanding of the data as well as the subject matter. I found it useful to do some background reading on traumatic brain injury to help formulate the questions. I enjoyed the process of working with real-world data and applying the data analysis skills I've learned. The satisfaction of uncovering insights from the data and answering the research questions was well worth the effort. 
